@@ -1,0 +1,6 @@
+Mettaswara 2010 an	*	http://mettaswara.com:8700/m2010
+Mettaswara Campursari	*	http://mettaswara.com:8700/cps
+Mettaswara Dangdut	*	http://mettaswara.com:8700/d4d
+Mettaswara Indo 2000an	*	http://mettaswara.com:8700/indo00
+Mettaswara Indonesia	*	http://mettaswara.com:8700/indo
+Mettaswara Jawa	*	http://mettaswara.com:8700/java
