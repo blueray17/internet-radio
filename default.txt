@@ -1,4 +1,4 @@
-favorit * 
+favorit * https://raw.githubusercontent.com/blueray17/internet-radio/refs/heads/main/favorit.txt
 Islami *
 Joglosemar *
 Bandung *
