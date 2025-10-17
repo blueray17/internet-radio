@@ -1,0 +1,13 @@
+#kategori:Campursari
+Bass 93.2 FM|http://live.bassfm.id/;
+CampursariFM 89.2|https://a8.siar.us/listen/campursari/stream
+Gita FM Jombang|http://svara-stream.radioddns.net:8000/jombang_gitafm_
+
+#kategori:Dangdut
+Mettaswara Dangdut|http://mettaswara.com:8700/d4d
+Mettaswara Koplo|http://mettaswara.com:8700/koplo
+TOPFM 95.1|http://streaming.topfm951.net:9510/stream
+
+#kategori:Islami
+Radio Rodja Bogor|http://radioislamindonesia.com/rodja.mp3
+Suara Muslim Surabaya|http://pu.klikhost.com:8052/stream
