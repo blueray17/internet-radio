@@ -4,10 +4,13 @@ Mettaswara Indo 2000an|http://mettaswara.com:8700/indo00
 Mettaswara Indonesia|http://mettaswara.com:8700/indo
 Mettaswara Jawa|http://mettaswara.com:8700/java
 Paramuda Bandung|https://i.klikhost.com/8332/;
+TOPFM 95.1|http://streaming.topfm951.net:9510/stream
+IRadio Jakarta|http://n12.radiojar.com/4ywdgup3bnzuv
 
 #kategori:Campursari
 CampursariFM 89.2|https://a8.siar.us/listen/campursari/stream
 Gita FM Jombang|http://svara-stream.radioddns.net:8000/jombang_gitafm_
+Mettaswara Campursari|http://mettaswara.com:8700/cps
 
 #kategori:JogjaSolo
 Retjobuntung|http://45.64.97.82:9940/stream
@@ -23,11 +26,6 @@ RADIO CJDW BOYOLALI|https://play.urfan.id/?url=https://jgj.jogjastreamers.com/cj
 RADIO GENTARA WONOGIRI|https://s1.gntr.net/radio/8080/gentara128
 KARAVAN RADIO FM|https://i.klikhost.com/8190/stream.aac
 RADIO RAPMA FM UMS|http://c2.siar.us:9999/stream
-
-#kategori:Dangdut
-Mettaswara Dangdut|http://mettaswara.com:8700/d4d
-Mettaswara Koplo|http://mettaswara.com:8700/koplo
-TOPFM 95.1|http://streaming.topfm951.net:9510/stream
 
 #kategori:Islami
 Radio Rodja Bogor|http://radioislamindonesia.com/rodja.mp3
