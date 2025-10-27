@@ -14,8 +14,6 @@ Mettaswara Campursari|http://mettaswara.com:8700/cps
 
 #kategori:JogjaSolo
 Retjobuntung|http://45.64.97.82:9940/stream
-RSPD KLATEN|https://play.urfan.id/?url=https://jgj.jogjastreamers.com/lpplklaten
-SALMA RADIO KLATEN|https://play.urfan.id/?url=https://jgj.jogjastreamers.com/salmastereo
 TA RADIO|http://c1.siar.us:10350/stream
 RADIO YASIKA|http://i.klikhost.com/9604/stream.aac
 RADIO METTA SOLO FM|http://srv1.streamcast.my.id/listen/metta_solo_fm/radio.mp3
@@ -26,6 +24,7 @@ RADIO CJDW BOYOLALI|http://play.urfan.id/?url=https://jgj.jogjastreamers.com/cjd
 RADIO GENTARA WONOGIRI|http://s1.gntr.net/radio/8080/gentara128
 KARAVAN RADIO FM|http://i.klikhost.com/8190/stream.aac
 RADIO RAPMA FM UMS|http://c2.siar.us:9999/stream
+SALMA RADIO KLATEN|https://play.urfan.id/?url=https://jgj.jogjastreamers.com/salmastereo
 
 #kategori:Islami
 Radio Rodja Bogor|http://radioislamindonesia.com/rodja.mp3
