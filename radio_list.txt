@@ -1,5 +1,4 @@
-#kategori:Grup1
-Mettaswara Campursari|http://mettaswara.com:8700/cps
+#kategori:Mix
 Mettaswara Indo 2000an|http://mettaswara.com:8700/indo00
 Mettaswara Indonesia|http://mettaswara.com:8700/indo
 Mettaswara Jawa|http://mettaswara.com:8700/java
@@ -29,3 +28,68 @@ Radio Rodja Bogor|http://radioislamindonesia.com/rodja.mp3
 Suara Muslim Surabaya|http://pu.klikhost.com:8052/stream
 Bass 93.2 FM|http://live.bassfm.id/;
 RADIO MQ FM SOLO|https://audiostreamserver.indonesiastreaming.com/mqfm
+
+#kategori:Jakarta
+87.6 THE ROCKIN LIFE JAKARTA|http://stream.radiojar.com/7csmg90fuqruv
+88.8 RRI PRO 3|http://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+89.2 CAMPURSARI FM|https://a8.siar.us/listen/campursari/stream
+89.6 PUBLICA FM|https://stream.rcs.revma.com/mypz9mu73guvv
+90.0 ELSHINTA JAKARTA|https://stream-ssl.arenastreaming.com:8000/jakarta
+90.4 VOKS RADIO|https://svara-stream.radioddns.net/voksradiojakarta
+91.0 TANGERANG RADIO|http://rl.tangerank.my.id/swara
+91.2 RRI PRO 1 JAKARTA|https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+91.4 MEGASWARA FM SERANG|https://server.adyadigitalteknologi.com:8010/2/;
+91.8 MANEUVER CILEGON|https://servidor20-5.brlogic.com:7024/live
+92.0 SONORA FM|https://cast1.my-control-panel.com/proxy/radioso1/stream
+92.2 MANEUVER BOGOR|https://servidor20-5.brlogic.com:7024/live?source=7563
+92.4 PAS FM|https://i.klikhost.com:8266/;
+92.8 RRI PRO 4 JAKARTA|http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
+93.2 HOT FM JAKARTA|https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
+93.4 KISI FM BOGOR|https://live.kisifm.com/listen/kisifm/kisifm
+93.6 XCHANNEL BEKASI|https://stream.xradio.co.id/xchannelbks
+94.1 ELPAS FM BOGOR|https://asv.alhastream.com:3380/elpasfm
+94.9 RRI PRO 1 BANTEN|https://stream-node0.rri.co.id/streaming/36/9036/rribantenpro1.mp3
+95.1 KIS FM|https://ic.mari.co.id:8443/kisfm
+95.5 RAS FM|https://i.klikhost.com:9006/;
+95.9 SMART FM JAKARTA|http://cast2.my-control-panel.com/proxy/radioso3/stream
+96.3 RPK FM|https://streaming.classynetradio.com:8040/rpkfm
+96.7 IMI RADIO|https://a1.siar.us/listen/imiradio/stream
+97.1 RDI|https://stream.roov.id:8062/stream
+97.5 MOTION RADIO|https://cast3.asurahosting.com/proxy/radios22/stream
+97.9 FEMALE RADIO|https://s1.cloudmu.id/listen/female_radio/radio.mp3
+98.3 MANDARIN STATION|https://stream01-ssl.arenastreaming.com:8043/live
+98.7 GEN FM JAKARTA|https://ic.mari.co.id:8443/genfm
+99.1 DELTA FM|https://s1.cloudmu.id/listen/delta_fm/stream
+99.3 FAJRI FM BOGOR|https://ars.mitradio.com:8000/radio.mp3
+99.5 SMOOTH|https://svara-stream.radioddns.net/jakarta_smoothfm_mp3
+99.9 Z|https://svara-stream.radioddns.net/jakarta_z999fm_aac
+100.1 RODJA|https://live2.radiorodja.com/rodja.mp3
+100.3 ELGANGGA BEKASI|https://b.alhastream.com:5140/radio
+100.6 HEARTLINE TANGERANG|https://stream.heartline.co.id:8443/heartline_tangerang
+100.8 MEGASWARA BOGOR|https://server.adyadigitalteknologi.com:8010/stream/1/
+101.0 JAK FM|https://ic.mari.co.id:8443/jakfm
+101.4 ISWARA|https://n0a.radiojar.com/4ywdgup3bnzuv,
+101.6 RRI PRO 2 BANTEN|https://stream-node0.rri.co.id/streaming/36/9036/rribantenpro2.mp3
+102.0 RRI PRO 3 BANTEN|https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+102.2 PRAMBORS|https://s2.cloudmu.id/listen/prambors/radio.aac
+102.6 CAMAJAYA|https://ssg.streamingmurah.com:8078/;
+103.0 POP FM JAKARTA|https://i.klikhost.com:8272/;
+103.2 XCHANNEL SERANG|https://stream.xradio.co.id/xchannelsrg
+103.4 DFM JAKARTA|http://i.klikhost.com/9000/stream
+103.8 XCHANNEL JAKARTA|https://stream.xradio.co.id/xchanneljkt
+104.2 MS TRI|https://c2.siar.us/listen/mstrifm/live
+104.6 MNC TRIJAYA|http://111.119.207.125:8060/;
+104.8 MANEUVER SERANG|https://servidor20-5.brlogic.com:7024/live
+105.0 RRI PRO 2 JAKARTA|https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+105.2 PASS FM CILEGON|https://i.klikhost.com:8268/;
+105.4 CBB|https://stream01-ssl.arenastreaming.com:8056/live
+105.6 MUARA PERANTI PANDEGLANG|https://ssg.streamingmurah.com:8308/;
+105.8 MOST RADIO|https://ic.mari.co.id:8443/mostfm
+106.2 BENS RADIO|https://stream-047.zeno.fm/047dgsp3v68uv
+106.6 V RADIO|http://111.119.207.125:8068/;
+106.8 RRI PRO 2 BOGOR|http://stream-node2.rri.co.id/streaming/19/9319/rribogorpro2.mp3
+107.2 TEBET RADIO|https://stream-ssl.arenastreaming.com:8066/stream
+107.3 STAR FM TANGERANG|https://listen.staradio1073fm.net/stream
+107.7 JJM SUARA SAMUDERA|http://jjm-radio.tnial.mil.id/listen
+107.8 ERA FM UNJ|https://ssg.streamingmurah.com:8194/live
+107.9 AIRMEN RADIO|https://void.idserverhost.com:8024/stream
