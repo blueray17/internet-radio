@@ -148,3 +148,9 @@ RADIO MQ FM SOLO|http://audiostreamserver.indonesiastreaming.com/mqfm
 107.5 PRFM|http://sx.alhastream.com:8280/prfm
 107.8 SALIRA SUKABUMI|http://live.suarasalira.com/listen/suarasalira/stream
 107.9 NH KARAWANG|http://stream.rakomnhfm.or.id:8000/radio.mp3
+
+#kategori:MW-SW
+Voice of Indonesia|http://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+SWADESI|http://stream.swadesifm.com/radio/8140/radio.mp3
+NHK World|http://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
+China Radio International|http://sk.cri.cn/am846.m3u8
